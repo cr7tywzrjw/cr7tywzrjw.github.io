@@ -1,7 +1,6 @@
 # Welcome to my academic homepage. Hope you have a good day.
 
 ----------
-youyixiezhuyieadsa 
 <table border="0">
   <tr>
     <td width="75%">
