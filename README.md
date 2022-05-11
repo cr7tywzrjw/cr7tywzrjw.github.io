@@ -1,4 +1,3 @@
-# Welcome to my academic homepage. Hope you have a good day.
 <!DOCTYPE html>
 <html lang="en">
 <head>
