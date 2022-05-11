@@ -1,10 +1,8 @@
-​    
+## 个人情况
 
-# 秋风 - 前端工程师
+姓名：任嘉伟 | 民族：汉族 | 政治面貌：中共党员 | 民族：汉族 | 生日：2001-09
 
-::: left
-
-xxxxxx | xxxxxxxxx | xxxx | xxxxxxxxx | xxxxxxxx
+联系方式： 邮箱：jiaweiren2001@163.com   |   电话：（+86）13513645799
 
 [icon:blog https://qiufeng.blue](https://qiufeng.blue)
 
